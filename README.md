@@ -8,6 +8,8 @@ The following rules form the backbone of this philosophy. They are simple, but t
 
 This manifesto aims to inform the two man duo that goes into a game to carry, inform and communicate. It is evident that two well informed players can turn a mediocre team into a winning one, this manifesto is meant to be shared.
 
+As a player you have the responsability to effectively communicate the knowledge that you have to improve your teams chances of winning.
+
 ---
 
 ## Rule 1: Prioritize Economic Efficiency & Strategic Choice  
