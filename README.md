@@ -100,6 +100,8 @@ Peeking is an essential tool as a player and understanding the mechanics of util
 
 Never normal peek at the edge of a corner. A standard "normal peek" is a passive and ineffective move. The first player must force the opponent to react, ensuring that the corner holder is distracted and focused on them.
 
+The first player should always peek in such a way that it leaves space for an immediate trade, the first player should not cause a traffic jam.
+
 ### The four forms of peeking
 
 #### **Wide Peeking**
