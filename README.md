@@ -19,7 +19,7 @@ When resources are limited, optimize your purchases for both personal success an
 
 Choosing a Desert Eagle, full armor, and utility over a weaker rifle without these advantages is a smarter, more sustainable choice.
 
-An example of when this rule comes into play:
+### **Example:**  
 Second round, both teams do not have enough funds to full buy all necessary utility, weapons and armor, this creates a situation where the uninformed team will buy kevlar, an mp9 or famas, and a single nade if lucky.
 
 The informed team will buy full armor, a deagle and a set of nades, the informed team is able to withstand headshots at any range, the uninformed- even with full kevlar can now die at any range by a well placed deagle shot as well as the informed team now being able to halt executes or take sites with a peace of mind that they will not die to a lucky stray bullet to the head on entry.
@@ -37,8 +37,10 @@ While gaining mid is inherently challenging and requires dedicated firepower, th
 - **Enemy executes lose their flexibility.** Mid is a critical point of rotation and map strategy. Without control of mid, the enemy’s ability to split sites, vary execution patterns, or change their attack strategy is severely reduced.  
 - **Your team maintains greater map flexibility.** A strong mid presence allows CTs to rotate quickly, adapt to executes, and respond to pressure without having to commit unnecessarily to a single site.  
 
-### **Example Split:**  
-A *2-2-1 split*—two players actively controlling mid, two on B, and one on A—denies the enemy key strategic movement while allowing your team to retain the ability to react to pressure on either A or B, as necessary.  
+### **Example:**  
+A *2-2-1 split* on ancient-  two players actively controlling mid, two on B, and one on A—denies the enemy key strategic movement while allowing your team to retain the ability to react to pressure on either A or B, as necessary.  
+
+The two players holding mid can molotov elbow and nade stack it, aswell as a jump throw from spawn smoking elbow can effeciently stop a mid rush, even in the case of a mid rush, the two player holding mid now have a major advantage, after they have full control of mid, they can now push to banana/front of cave, or if they choose to- nade stack B ramp.
 
 Taking mid isn’t just about holding space—it’s about forcing the enemy into reactive, resource-draining decisions. By taking mid, you make their original plans harder to execute, and in doing so, you gain the strategic upper hand.  
 
