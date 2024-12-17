@@ -38,7 +38,7 @@ While gaining mid is inherently challenging and requires dedicated firepower, th
 - **Your team maintains greater map flexibility.** A strong mid presence allows CTs to rotate quickly, adapt to executes, and respond to pressure without having to commit unnecessarily to a single site.  
 
 ### **Example:**  
-A *2-2-1 split* on ancient-  two players actively controlling mid, two on B, and one on A—denies the enemy key strategic movement while allowing your team to retain the ability to react to pressure on either A or B, as necessary.  
+A *2-2-1 split* on ancient—two players actively controlling mid, two on B, and one on A—denies the enemy key strategic movement while allowing your team to retain the ability to react to pressure on either A or B, as necessary.  
 
 The two players holding mid can molotov elbow and nade stack it, aswell as a jump throw from spawn smoking elbow can effeciently stop a mid rush, even in the case of a mid rush, the two player holding mid now have a major advantage, after they have full control of mid, they can now push to banana/front of cave, or if they choose to- nade stack B ramp.
 
