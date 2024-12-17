@@ -96,14 +96,14 @@ When two players are assigned to a single site, their goals should revolve aroun
 
 ## Rule 5: Understanding the peek
 
-Peeking is an essential tool as a player and understanding the mechanics of utilising a two player peek is vital for ensuring your team is capable of trading, without a proper understanding of the peek you ans your team will most likely fail at accomplishing the necessary trades.
+Peeking is an essential tool as a player and understanding the mechanics of utilising a two player peek is vital for ensuring your team is capable of trading, without a proper understanding of the peek you and your team will most likely fail at accomplishing the necessary trades.
 
 Never normal peek at the edge of a corner. A standard "normal peek" is a passive and ineffective move. The first player must force the opponent to react, ensuring that the corner holder is distracted and focused on them.
 
-###Here are the four forms of peeking
+### Here are the four forms of peeking
 
 #### **Wide Peeking**
-Wide peekinf is the optimal form for the first player. By taking a broader angle, the first player draws the enemy’s attention, allowing the second player to take advantage of the distraction and secure the trade. This opens up a clear shot while minimizing the risk of both players being eliminated by the same enemy.
+Wide peeking is the optimal form for the first player. By taking a broader angle, the first player draws the enemy’s attention, allowing the second player to take advantage of the distraction and secure the trade. This opens up a clear shot while minimizing the risk of both players being eliminated by the same enemy.
 
 #### **Crouch Peeking**
 Crouch Peeking is an alternative. The first player can crouch to allow the second player to peek over them, but this is riskier, as it leaves the second player vulnerable to collateral damage through the first. It is recommended to use this in case the space provided is not enough for a wide peek.
