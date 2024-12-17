@@ -4,7 +4,9 @@ In the pursuit of victory in Counter-Strike, every decision matters. A single mi
 
 Counter-Strike is more than just a game of aim and reflexes. It is a test of patience, strategy, and coordination. Every action, every purchase, and every move on the map should align with a clear philosophy: **maximize the utility of resources, maintain team cohesion, and prioritize decision-making under pressure.**  
 
-The following rules form the backbone of this philosophy. They are simple, but they are powerful. They embody the idea that success isn’t just about brute force, but about smarter, more economical, and cohesive gameplay. Follow these rules, adapt to their purpose, and transform the chaos of a competitive match into calculated victories.  
+The following rules form the backbone of this philosophy. They are simple, but they are powerful. They embody the idea that success isn’t just about brute force, but about smarter, more economical, and cohesive gameplay. Follow these rules, adapt to their purpose, and transform the chaos of a competitive match into calculated victories.
+
+This manifesto aims to inform the two man duo that goes into a game to carry, inform and communicate. It is evident that two well informed players can turn a mediocre team into a winning one, this manifesto is meant to be shared.
 
 ---
 
