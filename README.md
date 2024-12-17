@@ -82,8 +82,8 @@ When two players are assigned to a single site, their goals should revolve aroun
 - Two players can effectively gather information by advancing up risky positions or using utility to probe enemy plans. This greatly improves the chances of team success by allowing mid-round decisions based on newly gathered intel.  
 - This intel allows teams to adjust rotations, adapt executes, or preempt enemy strategies before they can fully materialize.  
 
-**By utilizing crossfires, smart utility use, and effective communication, a well-coordinated defense can deny, disrupt, and counteract T-side strategies with precision.**  
+**By utilizing crossfires, smart utility use, and effective communication, a well-coordinated defense can greatly improve the winning chances of a team.**  
 
 ---
 
-**By 1ndex & the help of ChatGPT.**
+**By 1ndex/Skadefryd & the help of ChatGPT.**
