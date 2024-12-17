@@ -94,4 +94,31 @@ When two players are assigned to a single site, their goals should revolve aroun
 
 ---
 
+## Rule 5: Understanding the peek
+
+Peeking is an essential tool as a player and understanding the mechanics of utilising a two player peek is vital for ensuring your team is capable of trading, without a proper understanding of the peek you ans your team will most likely fail at accomplishing the necessary trades.
+
+Never normal peek at the edge of a corner. A standard "normal peek" is a passive and ineffective move. The first player must force the opponent to react, ensuring that the corner holder is distracted and focused on them.
+
+###Here are the four forms of peeking
+
+#### **Wide Peeking**
+Wide peekinf is the optimal form for the first player. By taking a broader angle, the first player draws the enemy’s attention, allowing the second player to take advantage of the distraction and secure the trade. This opens up a clear shot while minimizing the risk of both players being eliminated by the same enemy.
+
+#### **Crouch Peeking**
+Crouch Peeking is an alternative. The first player can crouch to allow the second player to peek over them, but this is riskier, as it leaves the second player vulnerable to collateral damage through the first. It is recommended to use this in case the space provided is not enough for a wide peek.
+
+#### **Jump Peeking**
+Jump Peeking is effective against AWPs, as it forces the opponent to shoot and hopefully hit the feet. However, this comes at a cost—the first player cannot effectively fight back. Jump peeking should be used when certain the opponent is holding with an AWP, and the second player is prepared to trade.
+
+#### **Shoulder Peeking**
+This peek is ideal for information gathering, shoulder peeking is done by one player, it is when the peeking player holds the knife for maximum momentum, and only peeks using A and D, revealing the shoulder, this causes oponnents to think the peeking player is coming around the corner which can cause the oponnent to react and unwillingly give out the information of their weapon and position.
+A reaction such as a shot can possibly be an advantage in a duel given the oponnent shot using the AWP or Scout, in that case taking the duel before the oponnent resets increases the chances of winning tbe duel.
+
+## Why?
+The Second Player is the trade—always ready to secure the kill if the first player falls. It’s crucial that they anticipate the timing of the first player's peek, ready to respond the moment an opening presents itself.
+
+## How.
+Peeking is a team effort. Before executing a peek, both players must communicate the strategy—whether it’s a wide peek, crouch peek, or jump peek. An example: “I’m wide peeking this corner, trade me.” This clarity ensures that both players understand their roles and execute their actions with confidence.
+
 **By 1ndex/Skadefryd & the help of ChatGPT.**
