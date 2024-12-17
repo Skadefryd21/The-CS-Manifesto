@@ -24,7 +24,7 @@ When resources are limited, optimize your purchases for both personal success an
 Choosing a Desert Eagle, full armor, and utility over a weaker rifle without these advantages is a smarter, more sustainable choice.
 
 ### **Example:**  
-Second round, both teams do not have enough funds to full buy all necessary utility, weapons and armor, this creates a situation where the uninformed team will buy kevlar, an mp9 or famas, and a single nade if lucky.
+Second round, both teams do not have enough funds to full buy all necessary utility, weapons and armor, this creates a situation where the uninformed team will buy kevlar, an MP9 or Famas, and a single nade if lucky.
 
 The informed team will buy full armor, a deagle and a set of nades, the informed team is able to withstand headshots at any range, the uninformed- even with full kevlar can now die at any range by a well placed deagle shot as well as the informed team now being able to halt executes or take sites with a peace of mind that—they will not die to a lucky stray bullet to the head on entry.
 
