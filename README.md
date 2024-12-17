@@ -28,7 +28,7 @@ Second round, both teams do not have enough funds to full buy all necessary util
 
 The informed team will buy full armor, a deagle and a set of nades, the informed team is able to withstand headshots at any range, the uninformed- even with full kevlar can now die at any range by a well placed deagle shot as well as the informed team now being able to halt executes or take sites with a peace of mind that—they will not die to a lucky stray bullet to the head on entry.
 
-As a rule of thumb, if you are not comfortable using the deagle, buying an SMG is okay as long as you kevlar and a helmet, but in the perfect situation you as a player is confident enough to use the deagle and save that money you would have otherwised spent on a more expensive smg.
+As a rule of thumb, if you are not comfortable using the deagle, buying an SMG is okay as long as you have bought kevlar and a helmet, but in the perfect situation you as a player is confident enough to use the deagle and save that money you would have otherwise spent on a more expensive smg.
 
 Remember that the deagle retains the one shot threat and comes with the upside that you as a player get to invest in atleast one more nade.
 
