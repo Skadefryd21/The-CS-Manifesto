@@ -17,11 +17,12 @@ When resources are limited, optimize your purchases for both personal success an
 - Full armor gives you the ability to absorb damage from mid-tier SMGs and other aggressive engagements, allowing you to play for strategic trades and adaptability.  
 - Buying the right grenades or smoke allows your team to control engagements, execute effectively, and respond to threats without compromising tactical flexibility.  
 
-Choosing a Desert Eagle, full armor, and utility over a weaker rifle without these advantages is a smarter, more sustainable choice.  
+Choosing a Desert Eagle, full armor, and utility over a weaker rifle without these advantages is a smarter, more sustainable choice.
 
 An example of when this rule comes into play:
 Second round, both teams do not have enough funds to full buy all necessary utility, weapons and armor, this creates a situation where the uninformed team will buy kevlar, an m4 or famas, and a single nade if lucky.
 The informed team will buy full armor, a deagle and a set of nades, the informed team is able to withstand headshots at any range, the uninformed- even with full kevlar can now die at any range by a well places deagle shot, the informed team is also now able to halt executes or take sites with nades.
+
 ---
 
 ## Rule 2: Mid Control - Deny, Dominate, Dictate  
